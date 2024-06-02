@@ -21,7 +21,7 @@ The Llama model has been privately deployed, and access is available upon reques
 To request access to the deployed Llama model and its private keys, please contact:
 
 - **Email:** [tharunkkumarasamy@gmail.com]
-Please provide details about your use case and any specific requirements when contacting us for access.
+Please provide details about your use case and any specific requirements when contacting for access.
 
 Once access is granted, you will proceed with further steps.
 
