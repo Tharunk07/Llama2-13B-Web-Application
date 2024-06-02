@@ -12,7 +12,21 @@ The Llama-2-13B model is a machine learning model deployed on the Google Cloud P
 To get started with using the Llama-2-13B model, follow these steps:
 
 **Installation**: Ensure you have Python installed on your local system. Use pip to install the necessary dependencies:
-'''
-echo "pip install -r requirements.txt"
+```bash
+pip install -r requirements.txt
+```
+**Deployment Information**
 
-'''
+The Llama model has been privately deployed, and access is available upon request.
+To request access to the deployed Llama model and its private keys, please contact:
+
+- **Email:** [tharunkkumarasamy@gmail.com]
+Please provide details about your use case and any specific requirements when contacting us for access.
+
+Once access is granted, you will proceed with further steps.
+
+**Run the Streamlit App**: Execute the Streamlit app to access the model interface locally:
+```bash
+streamlit run app.py
+```
+**Access the Model**: Once the Streamlit app is running, open a web browser and navigate to the provided URL to access the interface. From there, you can send requests to the model and view the responses.
